@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2108210716, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+  m_Name: mboh gak ero
+  m_EditorClassIdentifier: 
+  topLeft: {r: 0.9705882, g: 0.8231297, b: 0.20696369, a: 1}
+  topRight: {r: 1, g: 0.8982655, b: 0.47794116, a: 1}
+  bottomLeft: {r: 0.99264705, g: 0.7173631, b: 0.13137977, a: 1}
+  bottomRight: {r: 1, g: 0.68036526, b: 0, a: 1}
